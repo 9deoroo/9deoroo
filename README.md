@@ -10,13 +10,13 @@
 
 ## 🤝 Support Me:
 
-<a href="https://buymeacoffee.com/hemantmedha" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
+<a href="https://buymeacoffee.com/9deoroo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
 
 <!-- Socials -->
-## 🌐 Connect with Me
 
-<p align="center">
+
+<!-- <p align="center"> -->
   <!-- <a href="https://www.hackerrank.com/hemantmedhsia" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
   </a>
@@ -32,7 +32,7 @@
   <!-- <a href="https://www.hash-ia.site" target="_blank">
     <img src="https://www.hash-ia.site/images/logo_hash.png" />
   </a> -->
-</p>
+<!-- </p> -->
 
 ---
 
