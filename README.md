@@ -29,9 +29,9 @@
   <a href="https://instagram.com/hemant_____g" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
   </a> -->
-  <a href="https://www.hash-ia.site" target="_blank">
+  <!-- <a href="https://www.hash-ia.site" target="_blank">
     <img src="https://www.hash-ia.site/images/logo_hash.png" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -43,7 +43,7 @@
 
 <!-- Visitor Counters -->
 <div align="center">
-  <a href="https://github.com/HemantMedhsia">
-    <img src="https://komarev.com/ghpvc/?username=HemantMedhsia&style=for-the-badge&color=brightgreen" alt="Visitor Counter" />
+  <a href="https://github.com/9deoroo">
+    <img src="https://komarev.com/ghpvc/?username=9deoroo&style=for-the-badge&color=brightgreen" alt="Visitor Counter" />
   </a>
 </div>
