@@ -1,5 +1,5 @@
 <p alinear="centro">
-  <img src="https://capsule-render.vercel.app/api?type=9 de Oro!&height=200&text=9deOroo!&fontAlign=80&fontAlignY=40&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=9-de-Oro!&height=200&text=9deOroo!&fontAlign=80&fontAlignY=40&color=gradient"/>
 </p>
 
 <!--
