@@ -1,49 +1,133 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=9deOro!&fontAlign=80&fontAlignY=40&color=gradient"/>
-  <img src ="https://c.tenor.com/niiXOE0dItAAAAAd/tenor.gif" />
-  <h3><em>Simplicity is everything...</em></h3>
-  <img src="https://img.shields.io/badge/Supported_Platforms-Windows & Linux-red">
-  <!-- <img src="https://img.shields.io/badge/Version-1.0-red"> -->
-  <!-- <img src="https://img.shields.io/badge/Python-3.8.9-red"> -->
+
+<img src="https://c.tenor.com/niiXOE0dItAAAAAd/tenor.gif" width="420"/>
+
+# 9 de Oro
+
+### Construyendo sistemas simples para ideas complejas.
+
+*Software · IA · Infraestructura · Sistemas*
+
 </div>
-
-
-## 🤝 Support Me:
-
-<a href="https://buymeacoffee.com/9deoroo" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
-
-
-<!-- Socials -->
-
-
-<!-- <p align="center"> -->
-  <!-- <a href="https://www.hackerrank.com/hemantmedhsia" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/hemantmedhsia" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksForGeeks-0F9D58?style=for-the-badge&logo=GeeksForGeeks&logoColor=white" />
-  </a>
-  <a href="https://facebook.com/hemantmedhsia" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white" />
-  </a>
-  <a href="https://instagram.com/hemant_____g" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white" />
-  </a> -->
-  <!-- <a href="https://www.hash-ia.site" target="_blank">
-    <img src="https://www.hash-ia.site/images/logo_hash.png" />
-  </a> -->
-<!-- </p> -->
 
 ---
 
-<!-- Snake Animation -->
+## Sobre mí
+
+Construyo software enfocado en **simplicidad, inteligencia y sistemas útiles**.
+
+Mi trabajo se mueve principalmente entre:
+
+* 🧠 **Inteligencia Artificial**
+* ⚙️ **Backend e Infraestructura**
+* 🧩 **Arquitectura de Sistemas**
+* 🛠️ **Herramientas para desarrolladores**
+* 🔐 **Seguridad y datos**
+
+Me interesa crear software que sea **simple de entender, difícil de romper y fácil de evolucionar**.
+
+> *La simplicidad lo es todo.*
+
+---
+
+## 🟡 Qué estoy construyendo
+
+### 9 de Oro
+
+Un ecosistema personal de software construido alrededor de **inteligencia, contexto, memoria e infraestructura**.
+
+La idea no es construir más software.
+
+Es construir **mejores sistemas**.
+
+```text id="8h1x4c"
+                    9 DE ORO
+                       │
+        ┌──────────────┼──────────────┐
+        │              │              │
+        ▼              ▼              ▼
+      Contexto       Memoria           IA
+        │              │              │
+        └──────────────┼──────────────┘
+                       │
+                       ▼
+                 Infraestructura
+```
+
+---
+
+## 🧭 Principios
+
+**01 — Simplicidad**
+Eliminar complejidad antes de agregar abstracciones.
+
+**02 — Sistemas antes que funcionalidades**
+Construir bases sólidas que hagan más fácil todo lo que viene después.
+
+**03 — El contexto importa**
+Un buen sistema depende de comprender la información que lo rodea.
+
+**04 — Seguridad desde el principio**
+Los datos sensibles deben estar protegidos desde el diseño.
+
+**05 — Construir, medir, mejorar**
+Las pequeñas iteraciones terminan construyendo sistemas grandes.
+
+---
+
+## ⚡ Tecnologías
+
+```text id="t2s2yr"
+Lenguajes
+Python · JavaScript · SQL
+
+Backend
+FastAPI · REST · PostgreSQL
+
+IA
+LLM APIs · Sistemas de Contexto · Prompt Engineering
+
+Infraestructura
+Docker · Linux · Git
+
+Seguridad
+OAuth · JWT · Cifrado
+```
+
+---
+
+## 🎯 En qué estoy trabajando
+
+```text id="l5a2gk"
+→ Inteligencia Artificial
+→ Sistemas de Contexto y Memoria
+→ Arquitectura Backend
+→ Infraestructura para desarrolladores
+→ Construcción de 9 de Oro
+```
+
+---
+
 <div align="center">
-  <img src="https://github.com/HemantMedhsia/HemantMedhsia/blob/output/github-snake-dark.svg" alt="GitHub Activity Snake" />
+
+### Construir menos. Entender más.
+
 </div>
 
-<!-- Visitor Counters -->
+---
+
+<!-- GitHub Activity Snake -->
+
 <div align="center">
-  <a href="https://github.com/9deoroo">
-    <img src="https://komarev.com/ghpvc/?username=9deoroo&style=for-the-badge&color=brightgreen" alt="Visitor Counter" />
-  </a>
+
+<img src="https://github.com/HemantMedhsia/HemantMedhsia/blob/output/github-snake-dark.svg" alt="Actividad de GitHub" />
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>9 de Oro · Construyendo sistemas con intención.</sub>
+
 </div>
