@@ -2,7 +2,7 @@
 
 <img src="https://c.tenor.com/niiXOE0dItAAAAAd/tenor.gif" width="420"/>
 
-# 9 de Oro
+# 🟡 9 de Oro
 
 ### Construyendo sistemas simples para ideas complejas.
 
